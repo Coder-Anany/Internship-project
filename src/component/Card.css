@@ -1,0 +1,42 @@
+/* .selected-option { 
+    color: rgb(202, 49, 49); 
+  } */
+  
+  /* .unselected-option {
+    color: #0e0d0d; 
+  } */
+
+
+  /* Card.css */
+
+.card-container {
+    background-color: #333; /* Dark gray background */
+    color: #fff; /* White text color */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .question-number {
+    font-weight: bold;
+    color: #f0f0f0; /* Light gray question number */
+  }
+  
+  .question-text {
+    font-weight: bold;
+    color: #f0f0f0; /* Light gray question text */
+  }
+  
+  .selected-option {
+    background-color: #007bff; /* Blue for selected option */
+    color: #fff;
+  }
+  
+  .unselected-option {
+    background-color: #f0f0f0; /* Light gray for unselected option */
+    color: #333;
+  }
+  
+  /* Rest of your styles... */
+  
